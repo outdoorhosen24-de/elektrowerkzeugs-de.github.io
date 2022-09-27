@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/akkus-fur-elektrowerkzeuge", {data:[{_img:{}}],fetch:{},mutations:void 0});

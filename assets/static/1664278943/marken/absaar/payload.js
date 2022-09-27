@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/absaar", {data:[{_img:{}}],fetch:{},mutations:void 0});

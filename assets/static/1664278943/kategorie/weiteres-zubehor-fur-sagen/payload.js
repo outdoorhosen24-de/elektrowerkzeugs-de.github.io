@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/weiteres-zubehor-fur-sagen", {data:[{_img:{}}],fetch:{},mutations:void 0});

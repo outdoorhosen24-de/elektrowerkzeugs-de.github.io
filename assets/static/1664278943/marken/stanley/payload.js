@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/stanley", {data:[{_img:{}}],fetch:{},mutations:void 0});
