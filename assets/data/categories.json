@@ -1,107 +1,478 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "sägen",
+        "name": "Sägen",
+        "slug": "sagen",
+        "productCategory": "Sägen",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "handkreissägen",
+        "name": "Handkreissägen",
+        "slug": "handkreissagen",
+        "productCategory": "Handkreissägen",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "bohrer & schrauber",
+        "name": "Bohrer & Schrauber",
+        "slug": "bohrer-schrauber",
+        "productCategory": "Bohrer & Schrauber",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "zubehör für bohrer & schrauber",
+        "name": "Zubehör für Bohrer & Schrauber",
+        "slug": "zubehor-fur-bohrer-schrauber",
+        "productCategory": "Zubehör für Bohrer & Schrauber",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "holzdübel",
+        "name": "Holzdübel",
+        "slug": "holzdubel",
+        "productCategory": "Holzdübel",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "holzbohrer",
+        "name": "Holzbohrer",
+        "slug": "holzbohrer",
+        "productCategory": "Holzbohrer",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "schleifmaschinen & zubehör",
+        "name": "Schleifmaschinen & Zubehör",
+        "slug": "schleifmaschinen-zubehor",
+        "productCategory": "Schleifmaschinen & Zubehör",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "zubehör für schleifer",
+        "name": "Zubehör für Schleifer",
+        "slug": "zubehor-fur-schleifer",
+        "productCategory": "Zubehör für Schleifer",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "zubehör für deltaschleifer",
+        "name": "Zubehör für Deltaschleifer",
+        "slug": "zubehor-fur-deltaschleifer",
+        "productCategory": "Zubehör für Deltaschleifer",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "lochsägen",
+        "name": "Lochsägen",
+        "slug": "lochsagen",
+        "productCategory": "Lochsägen",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "zubehör für winkelschleifer",
+        "name": "Zubehör für Winkelschleifer",
+        "slug": "zubehor-fur-winkelschleifer",
+        "productCategory": "Zubehör für Winkelschleifer",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "bürsten",
+        "name": "Bürsten",
+        "slug": "bursten",
+        "productCategory": "Bürsten",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "schleifmaschinen",
+        "name": "Schleifmaschinen",
+        "slug": "schleifmaschinen",
+        "productCategory": "Schleifmaschinen",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "zug-, kapp- & gehrungssägen",
+        "name": "Zug-, Kapp- & Gehrungssägen",
+        "slug": "zug-kapp-gehrungssagen",
+        "productCategory": "Zug-, Kapp- & Gehrungssägen",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "akkuschrauber",
+        "name": "Akkuschrauber",
+        "slug": "akkuschrauber",
+        "productCategory": "Akkuschrauber",
+        "subCategories": []
+    },
+    {
+        "key": "löt- & schweißgeräte & zubehör",
+        "name": "Löt- & Schweißgeräte & Zubehör",
+        "slug": "lot-schweissgerate-zubehor",
+        "productCategory": "Löt- & Schweißgeräte & Zubehör",
+        "subCategories": []
+    },
+    {
+        "key": "lötgeräte",
+        "name": "Lötgeräte",
+        "slug": "lotgerate",
+        "productCategory": "Lötgeräte",
+        "subCategories": []
+    },
+    {
+        "key": "multifunktionswerkzeuge & zubehör",
+        "name": "Multifunktionswerkzeuge & Zubehör",
+        "slug": "multifunktionswerkzeuge-zubehor",
+        "productCategory": "Multifunktionswerkzeuge & Zubehör",
+        "subCategories": []
+    },
+    {
+        "key": "multitools & spezialwerkzeuge",
+        "name": "Multitools & Spezialwerkzeuge",
+        "slug": "multitools-spezialwerkzeuge",
+        "productCategory": "Multitools & Spezialwerkzeuge",
+        "subCategories": []
+    },
+    {
+        "key": "tischkreissägen",
+        "name": "Tischkreissägen",
+        "slug": "tischkreissagen",
+        "productCategory": "Tischkreissägen",
+        "subCategories": []
+    },
+    {
+        "key": "stichsägen & säbelsägen",
+        "name": "Stichsägen & Säbelsägen",
+        "slug": "stichsagen-sabelsagen",
+        "productCategory": "Stichsägen & Säbelsägen",
+        "subCategories": []
+    },
+    {
+        "key": "heißluftgeräte",
+        "name": "Heißluftgeräte",
+        "slug": "heissluftgerate",
+        "productCategory": "Heißluftgeräte",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für multischleifer",
+        "name": "Zubehör für Multischleifer",
+        "slug": "zubehor-fur-multischleifer",
+        "productCategory": "Zubehör für Multischleifer",
+        "subCategories": []
+    },
+    {
+        "key": "bohrmaschinen & schlagbohrmaschinen",
+        "name": "Bohrmaschinen & Schlagbohrmaschinen",
+        "slug": "bohrmaschinen-schlagbohrmaschinen",
+        "productCategory": "Bohrmaschinen & Schlagbohrmaschinen",
+        "subCategories": []
+    },
+    {
+        "key": "bohrhämmer",
+        "name": "Bohrhämmer",
+        "slug": "bohrhammer",
+        "productCategory": "Bohrhämmer",
+        "subCategories": []
+    },
+    {
+        "key": "akkugeräte",
+        "name": "Akkugeräte",
+        "slug": "akkugerate",
+        "productCategory": "Akkugeräte",
+        "subCategories": []
+    },
+    {
+        "key": "gas",
+        "name": "Gas",
+        "slug": "gas",
+        "productCategory": "Gas",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für exzenterschleifer",
+        "name": "Zubehör für Exzenterschleifer",
+        "slug": "zubehor-fur-exzenterschleifer",
+        "productCategory": "Zubehör für Exzenterschleifer",
+        "subCategories": []
+    },
+    {
+        "key": "tacker & zubehör",
+        "name": "Tacker & Zubehör",
+        "slug": "tacker-zubehor",
+        "productCategory": "Tacker & Zubehör",
+        "subCategories": []
+    },
+    {
+        "key": "tacker",
+        "name": "Tacker",
+        "slug": "tacker",
+        "productCategory": "Tacker",
+        "subCategories": []
+    },
+    {
+        "key": "fräsen",
+        "name": "Fräsen",
+        "slug": "frasen",
+        "productCategory": "Fräsen",
+        "subCategories": []
+    },
+    {
+        "key": "hobel & fräsen",
+        "name": "Hobel & Fräsen",
+        "slug": "hobel-frasen",
+        "productCategory": "Hobel & Fräsen",
+        "subCategories": []
+    },
+    {
+        "key": "metallbohrer",
+        "name": "Metallbohrer",
+        "slug": "metallbohrer",
+        "productCategory": "Metallbohrer",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für bandschleifer",
+        "name": "Zubehör für Bandschleifer",
+        "slug": "zubehor-fur-bandschleifer",
+        "productCategory": "Zubehör für Bandschleifer",
+        "subCategories": []
+    },
+    {
+        "key": "weiteres zubehör für bohrer",
+        "name": "Weiteres Zubehör für Bohrer",
+        "slug": "weiteres-zubehor-fur-bohrer",
+        "productCategory": "Weiteres Zubehör für Bohrer",
+        "subCategories": []
+    },
+    {
+        "key": "löttechnik",
+        "name": "Löttechnik",
+        "slug": "lottechnik",
+        "productCategory": "Löttechnik",
+        "subCategories": []
+    },
+    {
+        "key": "lötmittel",
+        "name": "Lötmittel",
+        "slug": "lotmittel",
+        "productCategory": "Lötmittel",
+        "subCategories": []
+    },
+    {
+        "key": "betonbohrer",
+        "name": "Betonbohrer",
+        "slug": "betonbohrer",
+        "productCategory": "Betonbohrer",
+        "subCategories": []
+    },
+    {
+        "key": "fliesenbohrer",
+        "name": "Fliesenbohrer",
+        "slug": "fliesenbohrer",
+        "productCategory": "Fliesenbohrer",
+        "subCategories": []
+    },
+    {
+        "key": "bohrersets",
+        "name": "Bohrersets",
+        "slug": "bohrersets",
+        "productCategory": "Bohrersets",
+        "subCategories": []
+    },
+    {
+        "key": "akkus für elektrowerkzeuge",
+        "name": "Akkus für Elektrowerkzeuge",
+        "slug": "akkus-fur-elektrowerkzeuge",
+        "productCategory": "Akkus für Elektrowerkzeuge",
+        "subCategories": []
+    },
+    {
+        "key": "bitsets",
+        "name": "Bitsets",
+        "slug": "bitsets",
+        "productCategory": "Bitsets",
+        "subCategories": []
+    },
+    {
+        "key": "miniaturwerkzeuge & zubehör",
+        "name": "Miniaturwerkzeuge & Zubehör",
+        "slug": "miniaturwerkzeuge-zubehor",
+        "productCategory": "Miniaturwerkzeuge & Zubehör",
+        "subCategories": []
+    },
+    {
+        "key": "miniaturwerkzeuge",
+        "name": "Miniaturwerkzeuge",
+        "slug": "miniaturwerkzeuge",
+        "productCategory": "Miniaturwerkzeuge",
+        "subCategories": []
+    },
+    {
+        "key": "tischbohrmaschinen",
+        "name": "Tischbohrmaschinen",
+        "slug": "tischbohrmaschinen",
+        "productCategory": "Tischbohrmaschinen",
+        "subCategories": []
+    },
+    {
+        "key": "weiteres zubehör für schrauber",
+        "name": "Weiteres Zubehör für Schrauber",
+        "slug": "weiteres-zubehor-fur-schrauber",
+        "productCategory": "Weiteres Zubehör für Schrauber",
+        "subCategories": []
+    },
+    {
+        "key": "ladegeräte für elektrowerkzeuge",
+        "name": "Ladegeräte für Elektrowerkzeuge",
+        "slug": "ladegerate-fur-elektrowerkzeuge",
+        "productCategory": "Ladegeräte für Elektrowerkzeuge",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für sägen",
+        "name": "Zubehör für Sägen",
+        "slug": "zubehor-fur-sagen",
+        "productCategory": "Zubehör für Sägen",
+        "subCategories": []
+    },
+    {
+        "key": "stichsägeblätter",
+        "name": "Stichsägeblätter",
+        "slug": "stichsageblatter",
+        "productCategory": "Stichsägeblätter",
+        "subCategories": []
+    },
+    {
+        "key": "steinbohrer",
+        "name": "Steinbohrer",
+        "slug": "steinbohrer",
+        "productCategory": "Steinbohrer",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für heißluftgeräte",
+        "name": "Zubehör für Heißluftgeräte",
+        "slug": "zubehor-fur-heissluftgerate",
+        "productCategory": "Zubehör für Heißluftgeräte",
+        "subCategories": []
+    },
+    {
+        "key": "heißluftdüsen",
+        "name": "Heißluftdüsen",
+        "slug": "heissluftdusen",
+        "productCategory": "Heißluftdüsen",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für akkugeräte",
+        "name": "Zubehör für Akkugeräte",
+        "slug": "zubehor-fur-akkugerate",
+        "productCategory": "Zubehör für Akkugeräte",
+        "subCategories": []
+    },
+    {
+        "key": "weiteres zubehör für sägen",
+        "name": "Weiteres Zubehör für Sägen",
+        "slug": "weiteres-zubehor-fur-sagen",
+        "productCategory": "Weiteres Zubehör für Sägen",
+        "subCategories": []
+    },
+    {
+        "key": "heißklebegeräte",
+        "name": "Heißklebegeräte",
+        "slug": "heissklebegerate",
+        "productCategory": "Heißklebegeräte",
+        "subCategories": []
+    },
+    {
+        "key": "dekupiersägen",
+        "name": "Dekupiersägen",
+        "slug": "dekupiersagen",
+        "productCategory": "Dekupiersägen",
+        "subCategories": []
+    },
+    {
+        "key": "kreissägeblätter & kappsägeblätter",
+        "name": "Kreissägeblätter & Kappsägeblätter",
+        "slug": "kreissageblatter-kappsageblatter",
+        "productCategory": "Kreissägeblätter & Kappsägeblätter",
+        "subCategories": []
+    },
+    {
+        "key": "säbelsägeblätter",
+        "name": "Säbelsägeblätter",
+        "slug": "sabelsageblatter",
+        "productCategory": "Säbelsägeblätter",
+        "subCategories": []
+    },
+    {
+        "key": "meißel",
+        "name": "Meißel",
+        "slug": "meissel",
+        "productCategory": "Meißel",
+        "subCategories": []
+    },
+    {
+        "key": "bits",
+        "name": "Bits",
+        "slug": "bits",
+        "productCategory": "Bits",
+        "subCategories": []
+    },
+    {
+        "key": "fräsbohrer",
+        "name": "Fräsbohrer",
+        "slug": "frasbohrer",
+        "productCategory": "Fräsbohrer",
+        "subCategories": []
+    },
+    {
+        "key": "bohrständer",
+        "name": "Bohrständer",
+        "slug": "bohrstander",
+        "productCategory": "Bohrständer",
+        "subCategories": []
+    },
+    {
+        "key": "bohrkronen",
+        "name": "Bohrkronen",
+        "slug": "bohrkronen",
+        "productCategory": "Bohrkronen",
+        "subCategories": []
+    },
+    {
+        "key": "universalbohrer",
+        "name": "Universalbohrer",
+        "slug": "universalbohrer",
+        "productCategory": "Universalbohrer",
+        "subCategories": []
+    },
+    {
+        "key": "schweißtechnik",
+        "name": "Schweißtechnik",
+        "slug": "schweisstechnik",
+        "productCategory": "Schweißtechnik",
+        "subCategories": []
+    },
+    {
+        "key": "schweißgeräte",
+        "name": "Schweißgeräte",
+        "slug": "schweissgerate",
+        "productCategory": "Schweißgeräte",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für miniaturwerkzeuge",
+        "name": "Zubehör für Miniaturwerkzeuge",
+        "slug": "zubehor-fur-miniaturwerkzeuge",
+        "productCategory": "Zubehör für Miniaturwerkzeuge",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für schweißgeräte",
+        "name": "Zubehör für Schweißgeräte",
+        "slug": "zubehor-fur-schweissgerate",
+        "productCategory": "Zubehör für Schweißgeräte",
         "subCategories": []
     }
 ]

@@ -1,59 +1,73 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "bwo",
+        "name": "BWO",
+        "slug": "bwo",
+        "productCategory": "BWO",
+        "localThumb": "/assets/images/hersteller/bwo.webp"
     },
     {
-        "key": "sonstige",
-        "name": "Sonstige",
-        "slug": "sonstige",
-        "productCategory": "Sonstige",
-        "localThumb": "/assets/images/hersteller/sonstige.webp"
+        "key": "black+decker",
+        "name": "Black+Decker",
+        "slug": "black-decker",
+        "productCategory": "Black+Decker",
+        "localThumb": "/assets/images/hersteller/black-decker.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "einhell",
+        "name": "Einhell",
+        "slug": "einhell",
+        "productCategory": "Einhell",
+        "localThumb": "/assets/images/hersteller/einhell.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "rothenberger industrial",
+        "name": "Rothenberger Industrial",
+        "slug": "rothenberger-industrial",
+        "productCategory": "Rothenberger Industrial",
+        "localThumb": "/assets/images/hersteller/rothenberger-industrial.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "makita",
+        "name": "Makita",
+        "slug": "makita",
+        "productCategory": "Makita",
+        "localThumb": "/assets/images/hersteller/makita.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "bosch",
+        "name": "Bosch",
+        "slug": "bosch",
+        "productCategory": "Bosch",
+        "localThumb": "/assets/images/hersteller/bosch.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "metabo",
+        "name": "Metabo",
+        "slug": "metabo",
+        "productCategory": "Metabo",
+        "localThumb": "/assets/images/hersteller/metabo.webp"
+    },
+    {
+        "key": "scheppach",
+        "name": "Scheppach",
+        "slug": "scheppach",
+        "productCategory": "Scheppach",
+        "localThumb": "/assets/images/hersteller/scheppach.webp"
+    },
+    {
+        "key": "bosch professional",
+        "name": "Bosch Professional",
+        "slug": "bosch-professional",
+        "productCategory": "Bosch Professional",
+        "localThumb": "/assets/images/hersteller/bosch-professional.webp"
     },
     {
         "key": "cmi",
@@ -63,24 +77,136 @@
         "localThumb": "/assets/images/hersteller/cmi.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "party factory",
+        "name": "Party Factory",
+        "slug": "party-factory",
+        "productCategory": "Party Factory",
+        "localThumb": "/assets/images/hersteller/party-factory.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "sonstige",
+        "name": "Sonstige",
+        "slug": "sonstige",
+        "productCategory": "Sonstige",
+        "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "gloria",
+        "name": "Gloria",
+        "slug": "gloria",
+        "productCategory": "Gloria",
+        "localThumb": "/assets/images/hersteller/gloria.webp"
+    },
+    {
+        "key": "worx",
+        "name": "Worx",
+        "slug": "worx",
+        "productCategory": "Worx",
+        "localThumb": "/assets/images/hersteller/worx.webp"
+    },
+    {
+        "key": "stanley fatmax",
+        "name": "Stanley FatMax",
+        "slug": "stanley-fatmax",
+        "productCategory": "Stanley FatMax",
+        "localThumb": "/assets/images/hersteller/stanley-fatmax.webp"
+    },
+    {
+        "key": "stanley",
+        "name": "Stanley",
+        "slug": "stanley",
+        "productCategory": "Stanley",
+        "localThumb": "/assets/images/hersteller/stanley.webp"
+    },
+    {
+        "key": "tyczka totalgaz",
+        "name": "Tyczka Totalgaz",
+        "slug": "tyczka-totalgaz",
+        "productCategory": "Tyczka Totalgaz",
+        "localThumb": "/assets/images/hersteller/tyczka-totalgaz.webp"
+    },
+    {
+        "key": "steinel",
+        "name": "Steinel",
+        "slug": "steinel",
+        "productCategory": "Steinel",
+        "localThumb": "/assets/images/hersteller/steinel.webp"
+    },
+    {
+        "key": "hyundai",
+        "name": "hyundai",
+        "slug": "hyundai",
+        "productCategory": "hyundai",
+        "localThumb": "/assets/images/hersteller/hyundai.webp"
+    },
+    {
+        "key": "rowi",
+        "name": "Rowi",
+        "slug": "rowi",
+        "productCategory": "Rowi",
+        "localThumb": "/assets/images/hersteller/rowi.webp"
+    },
+    {
+        "key": "kwb",
+        "name": "kwb",
+        "slug": "kwb",
+        "productCategory": "kwb",
+        "localThumb": "/assets/images/hersteller/kwb.webp"
+    },
+    {
+        "key": "zipper",
+        "name": "Zipper",
+        "slug": "zipper",
+        "productCategory": "Zipper",
+        "localThumb": "/assets/images/hersteller/zipper.webp"
+    },
+    {
+        "key": "wolfcraft",
+        "name": "Wolfcraft",
+        "slug": "wolfcraft",
+        "productCategory": "Wolfcraft",
+        "localThumb": "/assets/images/hersteller/wolfcraft.webp"
+    },
+    {
+        "key": "fischer",
+        "name": "Fischer",
+        "slug": "fischer",
+        "productCategory": "Fischer",
+        "localThumb": "/assets/images/hersteller/fischer.webp"
+    },
+    {
+        "key": "holzmann",
+        "name": "Holzmann",
+        "slug": "holzmann",
+        "productCategory": "Holzmann",
+        "localThumb": "/assets/images/hersteller/holzmann.webp"
+    },
+    {
+        "key": "rotwerk",
+        "name": "Rotwerk",
+        "slug": "rotwerk",
+        "productCategory": "Rotwerk",
+        "localThumb": "/assets/images/hersteller/rotwerk.webp"
+    },
+    {
+        "key": "ellix",
+        "name": "Ellix",
+        "slug": "ellix",
+        "productCategory": "Ellix",
+        "localThumb": "/assets/images/hersteller/ellix.webp"
+    },
+    {
+        "key": "absaar",
+        "name": "Absaar",
+        "slug": "absaar",
+        "productCategory": "Absaar",
+        "localThumb": "/assets/images/hersteller/absaar.webp"
+    },
+    {
+        "key": "dremel",
+        "name": "Dremel",
+        "slug": "dremel",
+        "productCategory": "Dremel",
+        "localThumb": "/assets/images/hersteller/dremel.webp"
     }
 ]
