@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/zubehor-fur-schleifer", {data:[{_img:{}}],fetch:{},mutations:void 0});

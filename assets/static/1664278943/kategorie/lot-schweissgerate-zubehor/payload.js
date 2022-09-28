@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/lot-schweissgerate-zubehor", {data:[{_img:{}}],fetch:{},mutations:void 0});

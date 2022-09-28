@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/black-decker", {data:[{_img:{}}],fetch:{},mutations:void 0});

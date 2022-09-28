@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/zubehor-fur-bandschleifer", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lux-schleifband-75-mm-x-457-mm-k120-lux-tools-4227849-1.jpg":"\u002Fassets\u002Fimages\u002Flux-schleifband-75-mm-x-457-mm-k120-lux-tools-4227849-1.webp"}}],fetch:{},mutations:void 0});

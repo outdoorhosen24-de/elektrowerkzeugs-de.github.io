@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/heissklebegerate", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/einhell-power-x-change-akku-heiszklebepistole-te-cg-18-li-solo-einhell-8141517-1.jpg":"\u002Fassets\u002Fimages\u002Feinhell-power-x-change-akku-heiszklebepistole-te-cg-18-li-solo-einhell-8141517-1.webp"}}],fetch:{},mutations:void 0});

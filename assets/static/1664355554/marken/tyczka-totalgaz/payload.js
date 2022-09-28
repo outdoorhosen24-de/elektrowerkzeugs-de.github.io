@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/tyczka-totalgaz", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/propan-fuellung-8-kg-fuer-eigentumsflasche-nur-fuellung-ohne-flasche-tyczka-totalgaz-7283807-1.jpg":"\u002Fassets\u002Fimages\u002Fpropan-fuellung-8-kg-fuer-eigentumsflasche-nur-fuellung-ohne-flasche-tyczka-totalgaz-7283807-1.webp"}}],fetch:{},mutations:void 0});

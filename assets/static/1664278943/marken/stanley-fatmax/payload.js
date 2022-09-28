@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/stanley-fatmax", {data:[{_img:{}}],fetch:{},mutations:void 0});

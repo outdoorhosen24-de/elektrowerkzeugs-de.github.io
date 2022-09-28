@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/universalbohrer", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lux-stufenbohrer-comfort-o-4-mm-20-mm-lux-tools-5816855-1.jpg":"\u002Fassets\u002Fimages\u002Flux-stufenbohrer-comfort-o-4-mm-20-mm-lux-tools-5816855-1.webp"}}],fetch:{},mutations:void 0});
