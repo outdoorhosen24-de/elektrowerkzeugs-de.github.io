@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "elektrowerkzeugs.de",
+    "hostname": "https://www.elektrowerkzeugs.de/",
+    "email": "elektrowerkzeugs.desurrealnetworks.io",
+    "organization": "elektrowerkzeugs.de",
+    "logoText": "Elektrowerkzeugs.de",
+    "title": "Elektrowerkzeuge",
+    "subline": "Der Online Shop f\u00fcr Elektrowerkzeuge",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "1854843",
+        "6031553",
+        "2440956",
+        "5597661",
+        "8537953",
+        "1058122"
+    ],
+    "winnerProducts": [
+        "6698609",
+        "9488081",
+        "1001049"
+    ],
+    "featuredCategories": [
+        "Zubeh\u00f6r f\u00fcr Miniaturwerkzeuge",
+        "L\u00f6tger\u00e4te",
+        "Bohrer & Schrauber",
+        "Weiteres Zubeh\u00f6r f\u00fcr Schrauber",
+        "Fr\u00e4sen",
+        "Bits"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Elektrowerkzeuge",
-        "featureText": "Your featured text goes here",
+        "featureText": "In unserem Shop finden Sie alles rund um Elektrowerkzeuge. Wir f\u00fchren eine gro\u00dfe Auswahl an verschiedenen Ger\u00e4ten und Zubeh\u00f6r, damit Sie f\u00fcr jede Aufgabe die richtigen Werkzeuge haben. Unsere erfahrenen Mitarbeiter beraten Sie gerne und finden mit Ihnen die beste L\u00f6sung f\u00fcr Ihr Anliegen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Elektrowerkzeuge - Die besten Ger\u00e4te f\u00fcr Ihren Job",
+            "metaDescription": "Im Shop findest du alles rund um Elektrowerkzeuge. Von Bohrmaschinen \u00fcber Stichs\u00e4gen bis hin zu Akkuschraubern.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Elektrowerkzeuge: Handliche Helfer f\u00fcr jeden Haushalt",
+                    "text": "Die meisten Menschen haben wahrscheinlich einige Erfahrung mit Elektrowerkzeugen, sei es beim Bohren, S\u00e4gen oder Schleifen. Diese Werkzeuge sind in der Regel sehr n\u00fctzlich und leistungsstark, aber es ist wichtig, sie richtig zu verwenden, um Verletzungen zu vermeiden.\n\nZun\u00e4chst einmal sollten Sie immer darauf achten, dass das Werkzeug ordnungsgem\u00e4\u00df geerdet ist. Auch wenn das Ger\u00e4t selbst nicht besonders leistungsstark ist, kann es immer noch einen gef\u00e4hrlichen Stromschlag verursachen, wenn es nicht richtig geerdet ist. Achten Sie also darauf, dass das Ger\u00e4t an einer ordnungsgem\u00e4\u00df geerdeten Steckdose angeschlossen ist.\n\nWenn Sie das Werkzeug verwenden, sollten Sie auch darauf achten, dass Sie es nicht in Wasser oder andere fl\u00fcssige Medien eintauchen. Dies kann zu einem Stromschlag f\u00fchren. Auch wenn das Ger\u00e4t selbst wasserdicht ist, kann das Kabel oder die Steckdose nicht wasserdicht sein.\n\nWenn Sie das Werkzeug verwenden, achten Sie darauf, dass Sie es nicht in die N\u00e4he von brennbaren Materialien bringen. Dies kann zu einem Brand f\u00fchren. Achten Sie auch darauf, dass Sie das Werkzeug nicht in die N\u00e4he von lebenden Tieren oder Menschen verwenden.\n\nWenn Sie das Werkzeug nicht mehr verwenden, sollten Sie es immer ord"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Elektrowerkzeuge Shop",
+            "metaDescription": "Im Shop findest du alles rund um Elektrowerkzeuge. Vom Bohrer \u00fcber die S\u00e4ge bis hin zum Schraubenzieher - wir haben das richtige Werkzeug f\u00fcr jede Aufgabe.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Elektrowerkzeuge-Hersteller",
+            "metaDescription": "Der offizielle Manufacturer-Subpage f\u00fcr Elektrowerkzeuge. Hier finden Sie alle Informationen \u00fcber unsere Produkte und Dienstleistungen.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT - Die besten Elektrowerkzeuge f\u00fcr Ihren Job!",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die besten Elektrowerkzeuge f\u00fcr Ihren $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Die besten Elektrowerkzeuge f\u00fcr Ihren Haushalt",
+        "defaultMetaDescription": "$KATEGORIE - Hier findest du alles rund um das Thema Elektrowerkzeuge. Von Bohrmaschinen \u00fcber Schleifger\u00e4te bis hin zu Akkuschraubern.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Elektrowerkzeugen. Wir bieten eine gro\u00dfe Auswahl an hochwertigen und zuverl\u00e4ssigen Elektrowerkzeugen f\u00fcr jeden Bedarf.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Elektrowerkzeuge",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Elektrowerkzeuge Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Elektrowerkzeuge Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
