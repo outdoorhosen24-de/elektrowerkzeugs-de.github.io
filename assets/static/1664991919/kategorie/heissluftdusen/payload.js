@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/heissluftdusen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/steinel-breitstrahlduese-50-mm-steinel-5119680-1.jpg":"\u002Fassets\u002Fimages\u002Fsteinel-breitstrahlduese-50-mm-steinel-5119680-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/zubehor-fur-miniaturwerkzeuge", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/dremel-multi-schraubstock-2-500-3-in-1-dremel-3241643-1.jpg":"\u002Fassets\u002Fimages\u002Fdremel-multi-schraubstock-2-500-3-in-1-dremel-3241643-1.webp"}}],fetch:{},mutations:void 0});

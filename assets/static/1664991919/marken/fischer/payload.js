@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/fischer", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/fischer-bohrer-sds-plus-quattric-ii-5-100-165-fischer-1434950-1.jpg":"\u002Fassets\u002Fimages\u002Ffischer-bohrer-sds-plus-quattric-ii-5-100-165-fischer-1434950-1.webp"}}],fetch:{},mutations:void 0});
