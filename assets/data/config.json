@@ -51,12 +51,15 @@
             "title": "Elektrowerkzeuge - Die besten Geräte für Ihren Job",
             "metaDescription": "Im Shop findest du alles rund um Elektrowerkzeuge. Von Bohrmaschinen über Stichsägen bis hin zu Akkuschraubern.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Elektrowerkzeuge: Handliche Helfer für jeden Haushalt",
-                    "text": "Die meisten Menschen haben wahrscheinlich einige Erfahrung mit Elektrowerkzeugen, sei es beim Bohren, Sägen oder Schleifen. Diese Werkzeuge sind in der Regel sehr nützlich und leistungsstark, aber es ist wichtig, sie richtig zu verwenden, um Verletzungen zu vermeiden.\n\nZunächst einmal sollten Sie immer darauf achten, dass das Werkzeug ordnungsgemäß geerdet ist. Auch wenn das Gerät selbst nicht besonders leistungsstark ist, kann es immer noch einen gefährlichen Stromschlag verursachen, wenn es nicht richtig geerdet ist. Achten Sie also darauf, dass das Gerät an einer ordnungsgemäß geerdeten Steckdose angeschlossen ist.\n\nWenn Sie das Werkzeug verwenden, sollten Sie auch darauf achten, dass Sie es nicht in Wasser oder andere flüssige Medien eintauchen. Dies kann zu einem Stromschlag führen. Auch wenn das Gerät selbst wasserdicht ist, kann das Kabel oder die Steckdose nicht wasserdicht sein.\n\nWenn Sie das Werkzeug verwenden, achten Sie darauf, dass Sie es nicht in die Nähe von brennbaren Materialien bringen. Dies kann zu einem Brand führen. Achten Sie auch darauf, dass Sie das Werkzeug nicht in die Nähe von lebenden Tieren oder Menschen verwenden.\n\nWenn Sie das Werkzeug nicht mehr verwenden, sollten Sie es immer ord"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Elektrowerkzeuge: Handliche Helfer für jeden Haushalt",
+                        "text": "Die meisten Menschen haben wahrscheinlich einige Erfahrung mit Elektrowerkzeugen, sei es beim Bohren, Sägen oder Schleifen. Diese Werkzeuge sind in der Regel sehr nützlich und leistungsstark, aber es ist wichtig, sie richtig zu verwenden, um Verletzungen zu vermeiden.\n\nZunächst einmal sollten Sie immer darauf achten, dass das Werkzeug ordnungsgemäß geerdet ist. Auch wenn das Gerät selbst nicht besonders leistungsstark ist, kann es immer noch einen gefährlichen Stromschlag verursachen, wenn es nicht richtig geerdet ist. Achten Sie also darauf, dass das Gerät an einer ordnungsgemäß geerdeten Steckdose angeschlossen ist.\n\nWenn Sie das Werkzeug verwenden, sollten Sie auch darauf achten, dass Sie es nicht in Wasser oder andere flüssige Medien eintauchen. Dies kann zu einem Stromschlag führen. Auch wenn das Gerät selbst wasserdicht ist, kann das Kabel oder die Steckdose nicht wasserdicht sein.\n\nWenn Sie das Werkzeug verwenden, achten Sie darauf, dass Sie es nicht in die Nähe von brennbaren Materialien bringen. Dies kann zu einem Brand führen. Achten Sie auch darauf, dass Sie das Werkzeug nicht in die Nähe von lebenden Tieren oder Menschen verwenden.\n\nWenn Sie das Werkzeug nicht mehr verwenden, sollten Sie es immer ord"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Elektrowerkzeuge Shop",
