@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "elektrowerkzeugs.de",
     "hostname": "https://www.elektrowerkzeugs.de/",
     "email": "elektrowerkzeugs.de@surrealnetworks.io",
     "organization": "elektrowerkzeugs.de",
     "logoText": "Elektrowerkzeugs.de",
     "title": "Elektrowerkzeuge",
-    "subline": "Der Online Shop für Elektrowerkzeuge",
+    "subline": "Der Online Shop für Elektrowerkzeug ",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Elektrowerkzeuge",
-        "featureText": "In unserem Shop finden Sie alles rund um Elektrowerkzeuge. Wir führen eine große Auswahl an verschiedenen Geräten und Zubehör, damit Sie für jede Aufgabe die richtigen Werkzeuge haben. Unsere erfahrenen Mitarbeiter beraten Sie gerne und finden mit Ihnen die beste Lösung für Ihr Anliegen.",
+        "featureText": "Wir führen ein breites Sortiment an Elektrowerkzeugen: verschiedene Sägen, Bohrmaschinen, Akkuschrauber, Schleifmaschinen usw. Um eine hohe Kundenzufriedenheit zu gewährleisten, achten wir bei der Auswahl der angebotenen Produkte auf hohe Qualitätsstandards. Kauf dir das richtige Werkzeug und setze dein Bauvorhaben in die Tat um!",
         "index": {
-            "title": "Elektrowerkzeuge - Die besten Geräte für Ihren Job",
-            "metaDescription": "Im Shop findest du alles rund um Elektrowerkzeuge. Von Bohrmaschinen über Stichsägen bis hin zu Akkuschraubern.",
+            "title": "Elektrowerkzeuge - Qualitätsprodukte zum fairen Preis",
+            "metaDescription": "Online Shop für Elektrowerkzeug: Akkuschrauber, Bohrmaschinen, Kapp-, Tisch- & Stichsägen, Schleifmaschinen, Schweißgeräte, Multitools & Spezialwerkzeuge uvm. ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Elektrowerkzeuge Shop",
-            "metaDescription": "Im Shop findest du alles rund um Elektrowerkzeuge. Vom Bohrer über die Säge bis hin zum Schraubenzieher - wir haben das richtige Werkzeug für jede Aufgabe.",
+            "title": "Der Online Shop für Elektrowerkzeuge ",
+            "metaDescription": "Unser Shop bietet Dir ein breites Sortiment an Elektrowerkzeugen & Zubehör. Übersichtlich kategorisiert, damit Du schnell findest, was Du suchst. ",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Elektrowerkzeuge-Hersteller",
-            "metaDescription": "Der offizielle Manufacturer-Subpage für Elektrowerkzeuge. Hier finden Sie alle Informationen über unsere Produkte und Dienstleistungen.",
+            "title": "Elektrowerkzeuge von Top-Herstellern ",
+            "metaDescription": "Markenprodukte von Bosch Professional, Makita, Hyundai, Holzmann, Rotwerk, Einhell, Black+Decker, Stanley, LUX-Tools, Metabo uvm. ",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT - Die besten Elektrowerkzeuge für Ihren Job!",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die besten Elektrowerkzeuge für Ihren $KATEGORIE.",
+        "defaultTitle": "$PRODUKT | günstig online kaufen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig kaufen - riesige Auswahl an Elektrowerkzeugen in der Kategorie $KATEGORIE. Günstig bestellen.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Die besten Elektrowerkzeuge für Ihren Haushalt",
-        "defaultMetaDescription": "$KATEGORIE - Hier findest du alles rund um das Thema Elektrowerkzeuge. Von Bohrmaschinen über Schleifgeräte bis hin zu Akkuschraubern.",
+        "defaultTitle": "$KATEGORIE - riesige Auswahl an Elektrowerkzeugen ",
+        "defaultMetaDescription": "$KATEGORIE - übersichtlich dargestelltes Sortiment an Elektrowerkzeugen aus der Kategorie \"$KATEGORIE\". Finde das beste Produkt.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Elektrowerkzeugen. Wir bieten eine große Auswahl an hochwertigen und zuverlässigen Elektrowerkzeugen für jeden Bedarf.",
+        "defaultTitle": "Kaufe Produkte von $HERSTELLER",
+        "defaultMetaDescription": "$HERSTELLER ist führend auf dem Markt für elektrische Werkzeuge. $HERSTELLER steht für Nachhaltigkeit! Kaufen Sie Qualitätsprodukte zu einem fairen Preis.",
         "defaultRobots": "index, follow",
         "brands": [
             {
