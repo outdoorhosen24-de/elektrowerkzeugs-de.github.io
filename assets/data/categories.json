@@ -2,14 +2,14 @@
     {
         "key": "sägen",
         "name": "Sägen",
-        "slug": "sagen",
+        "slug": "saegen",
         "productCategory": "Sägen",
         "subCategories": []
     },
     {
         "key": "handkreissägen",
         "name": "Handkreissägen",
-        "slug": "handkreissagen",
+        "slug": "handkreissaegen",
         "productCategory": "Handkreissägen",
         "subCategories": []
     },
@@ -23,14 +23,14 @@
     {
         "key": "zubehör für bohrer & schrauber",
         "name": "Zubehör für Bohrer & Schrauber",
-        "slug": "zubehor-fur-bohrer-schrauber",
+        "slug": "zubehoer-fuer-bohrer-schrauber",
         "productCategory": "Zubehör für Bohrer & Schrauber",
         "subCategories": []
     },
     {
         "key": "holzdübel",
         "name": "Holzdübel",
-        "slug": "holzdubel",
+        "slug": "holzduebel",
         "productCategory": "Holzdübel",
         "subCategories": []
     },
@@ -44,42 +44,42 @@
     {
         "key": "schleifmaschinen & zubehör",
         "name": "Schleifmaschinen & Zubehör",
-        "slug": "schleifmaschinen-zubehor",
+        "slug": "schleifmaschinen-zubehoer",
         "productCategory": "Schleifmaschinen & Zubehör",
         "subCategories": []
     },
     {
         "key": "zubehör für schleifer",
         "name": "Zubehör für Schleifer",
-        "slug": "zubehor-fur-schleifer",
+        "slug": "zubehoer-fuer-schleifer",
         "productCategory": "Zubehör für Schleifer",
         "subCategories": []
     },
     {
         "key": "zubehör für deltaschleifer",
         "name": "Zubehör für Deltaschleifer",
-        "slug": "zubehor-fur-deltaschleifer",
+        "slug": "zubehoer-fuer-deltaschleifer",
         "productCategory": "Zubehör für Deltaschleifer",
         "subCategories": []
     },
     {
         "key": "lochsägen",
         "name": "Lochsägen",
-        "slug": "lochsagen",
+        "slug": "lochsaegen",
         "productCategory": "Lochsägen",
         "subCategories": []
     },
     {
         "key": "zubehör für winkelschleifer",
         "name": "Zubehör für Winkelschleifer",
-        "slug": "zubehor-fur-winkelschleifer",
+        "slug": "zubehoer-fuer-winkelschleifer",
         "productCategory": "Zubehör für Winkelschleifer",
         "subCategories": []
     },
     {
         "key": "bürsten",
         "name": "Bürsten",
-        "slug": "bursten",
+        "slug": "buersten",
         "productCategory": "Bürsten",
         "subCategories": []
     },
@@ -93,7 +93,7 @@
     {
         "key": "zug-, kapp- & gehrungssägen",
         "name": "Zug-, Kapp- & Gehrungssägen",
-        "slug": "zug-kapp-gehrungssagen",
+        "slug": "zug--kapp-gehrungssaegen",
         "productCategory": "Zug-, Kapp- & Gehrungssägen",
         "subCategories": []
     },
@@ -107,21 +107,21 @@
     {
         "key": "löt- & schweißgeräte & zubehör",
         "name": "Löt- & Schweißgeräte & Zubehör",
-        "slug": "lot-schweissgerate-zubehor",
+        "slug": "loet-schweissgeraete-zubehoer",
         "productCategory": "Löt- & Schweißgeräte & Zubehör",
         "subCategories": []
     },
     {
         "key": "lötgeräte",
         "name": "Lötgeräte",
-        "slug": "lotgerate",
+        "slug": "loetgeraete",
         "productCategory": "Lötgeräte",
         "subCategories": []
     },
     {
         "key": "multifunktionswerkzeuge & zubehör",
         "name": "Multifunktionswerkzeuge & Zubehör",
-        "slug": "multifunktionswerkzeuge-zubehor",
+        "slug": "multifunktionswerkzeuge-zubehoer",
         "productCategory": "Multifunktionswerkzeuge & Zubehör",
         "subCategories": []
     },
@@ -135,28 +135,28 @@
     {
         "key": "tischkreissägen",
         "name": "Tischkreissägen",
-        "slug": "tischkreissagen",
+        "slug": "tischkreissaegen",
         "productCategory": "Tischkreissägen",
         "subCategories": []
     },
     {
         "key": "stichsägen & säbelsägen",
         "name": "Stichsägen & Säbelsägen",
-        "slug": "stichsagen-sabelsagen",
+        "slug": "stichsaegen-saebelsaegen",
         "productCategory": "Stichsägen & Säbelsägen",
         "subCategories": []
     },
     {
         "key": "heißluftgeräte",
         "name": "Heißluftgeräte",
-        "slug": "heissluftgerate",
+        "slug": "heissluftgeraete",
         "productCategory": "Heißluftgeräte",
         "subCategories": []
     },
     {
         "key": "zubehör für multischleifer",
         "name": "Zubehör für Multischleifer",
-        "slug": "zubehor-fur-multischleifer",
+        "slug": "zubehoer-fuer-multischleifer",
         "productCategory": "Zubehör für Multischleifer",
         "subCategories": []
     },
@@ -170,14 +170,14 @@
     {
         "key": "bohrhämmer",
         "name": "Bohrhämmer",
-        "slug": "bohrhammer",
+        "slug": "bohrhaemmer",
         "productCategory": "Bohrhämmer",
         "subCategories": []
     },
     {
         "key": "akkugeräte",
         "name": "Akkugeräte",
-        "slug": "akkugerate",
+        "slug": "akkugeraete",
         "productCategory": "Akkugeräte",
         "subCategories": []
     },
@@ -191,14 +191,14 @@
     {
         "key": "zubehör für exzenterschleifer",
         "name": "Zubehör für Exzenterschleifer",
-        "slug": "zubehor-fur-exzenterschleifer",
+        "slug": "zubehoer-fuer-exzenterschleifer",
         "productCategory": "Zubehör für Exzenterschleifer",
         "subCategories": []
     },
     {
         "key": "tacker & zubehör",
         "name": "Tacker & Zubehör",
-        "slug": "tacker-zubehor",
+        "slug": "tacker-zubehoer",
         "productCategory": "Tacker & Zubehör",
         "subCategories": []
     },
@@ -212,14 +212,14 @@
     {
         "key": "fräsen",
         "name": "Fräsen",
-        "slug": "frasen",
+        "slug": "fraesen",
         "productCategory": "Fräsen",
         "subCategories": []
     },
     {
         "key": "hobel & fräsen",
         "name": "Hobel & Fräsen",
-        "slug": "hobel-frasen",
+        "slug": "hobel-fraesen",
         "productCategory": "Hobel & Fräsen",
         "subCategories": []
     },
@@ -233,28 +233,28 @@
     {
         "key": "zubehör für bandschleifer",
         "name": "Zubehör für Bandschleifer",
-        "slug": "zubehor-fur-bandschleifer",
+        "slug": "zubehoer-fuer-bandschleifer",
         "productCategory": "Zubehör für Bandschleifer",
         "subCategories": []
     },
     {
         "key": "weiteres zubehör für bohrer",
         "name": "Weiteres Zubehör für Bohrer",
-        "slug": "weiteres-zubehor-fur-bohrer",
+        "slug": "weiteres-zubehoer-fuer-bohrer",
         "productCategory": "Weiteres Zubehör für Bohrer",
         "subCategories": []
     },
     {
         "key": "löttechnik",
         "name": "Löttechnik",
-        "slug": "lottechnik",
+        "slug": "loettechnik",
         "productCategory": "Löttechnik",
         "subCategories": []
     },
     {
         "key": "lötmittel",
         "name": "Lötmittel",
-        "slug": "lotmittel",
+        "slug": "loetmittel",
         "productCategory": "Lötmittel",
         "subCategories": []
     },
@@ -282,7 +282,7 @@
     {
         "key": "akkus für elektrowerkzeuge",
         "name": "Akkus für Elektrowerkzeuge",
-        "slug": "akkus-fur-elektrowerkzeuge",
+        "slug": "akkus-fuer-elektrowerkzeuge",
         "productCategory": "Akkus für Elektrowerkzeuge",
         "subCategories": []
     },
@@ -296,7 +296,7 @@
     {
         "key": "miniaturwerkzeuge & zubehör",
         "name": "Miniaturwerkzeuge & Zubehör",
-        "slug": "miniaturwerkzeuge-zubehor",
+        "slug": "miniaturwerkzeuge-zubehoer",
         "productCategory": "Miniaturwerkzeuge & Zubehör",
         "subCategories": []
     },
@@ -317,28 +317,28 @@
     {
         "key": "weiteres zubehör für schrauber",
         "name": "Weiteres Zubehör für Schrauber",
-        "slug": "weiteres-zubehor-fur-schrauber",
+        "slug": "weiteres-zubehoer-fuer-schrauber",
         "productCategory": "Weiteres Zubehör für Schrauber",
         "subCategories": []
     },
     {
         "key": "ladegeräte für elektrowerkzeuge",
         "name": "Ladegeräte für Elektrowerkzeuge",
-        "slug": "ladegerate-fur-elektrowerkzeuge",
+        "slug": "ladegeraete-fuer-elektrowerkzeuge",
         "productCategory": "Ladegeräte für Elektrowerkzeuge",
         "subCategories": []
     },
     {
         "key": "zubehör für sägen",
         "name": "Zubehör für Sägen",
-        "slug": "zubehor-fur-sagen",
+        "slug": "zubehoer-fuer-saegen",
         "productCategory": "Zubehör für Sägen",
         "subCategories": []
     },
     {
         "key": "stichsägeblätter",
         "name": "Stichsägeblätter",
-        "slug": "stichsageblatter",
+        "slug": "stichsaegeblaetter",
         "productCategory": "Stichsägeblätter",
         "subCategories": []
     },
@@ -352,56 +352,56 @@
     {
         "key": "zubehör für heißluftgeräte",
         "name": "Zubehör für Heißluftgeräte",
-        "slug": "zubehor-fur-heissluftgerate",
+        "slug": "zubehoer-fuer-heissluftgeraete",
         "productCategory": "Zubehör für Heißluftgeräte",
         "subCategories": []
     },
     {
         "key": "heißluftdüsen",
         "name": "Heißluftdüsen",
-        "slug": "heissluftdusen",
+        "slug": "heissluftduesen",
         "productCategory": "Heißluftdüsen",
         "subCategories": []
     },
     {
         "key": "zubehör für akkugeräte",
         "name": "Zubehör für Akkugeräte",
-        "slug": "zubehor-fur-akkugerate",
+        "slug": "zubehoer-fuer-akkugeraete",
         "productCategory": "Zubehör für Akkugeräte",
         "subCategories": []
     },
     {
         "key": "weiteres zubehör für sägen",
         "name": "Weiteres Zubehör für Sägen",
-        "slug": "weiteres-zubehor-fur-sagen",
+        "slug": "weiteres-zubehoer-fuer-saegen",
         "productCategory": "Weiteres Zubehör für Sägen",
         "subCategories": []
     },
     {
         "key": "heißklebegeräte",
         "name": "Heißklebegeräte",
-        "slug": "heissklebegerate",
+        "slug": "heissklebegeraete",
         "productCategory": "Heißklebegeräte",
         "subCategories": []
     },
     {
         "key": "dekupiersägen",
         "name": "Dekupiersägen",
-        "slug": "dekupiersagen",
+        "slug": "dekupiersaegen",
         "productCategory": "Dekupiersägen",
         "subCategories": []
     },
     {
         "key": "kreissägeblätter & kappsägeblätter",
         "name": "Kreissägeblätter & Kappsägeblätter",
-        "slug": "kreissageblatter-kappsageblatter",
+        "slug": "kreissaegeblaetter-kappsaegeblaetter",
         "productCategory": "Kreissägeblätter & Kappsägeblätter",
         "subCategories": []
     },
     {
         "key": "säbelsägeblätter",
         "name": "Säbelsägeblätter",
-        "slug": "sabelsageblatter",
+        "slug": "saebelsaegeblaetter",
         "productCategory": "Säbelsägeblätter",
         "subCategories": []
     },
@@ -422,14 +422,14 @@
     {
         "key": "fräsbohrer",
         "name": "Fräsbohrer",
-        "slug": "frasbohrer",
+        "slug": "fraesbohrer",
         "productCategory": "Fräsbohrer",
         "subCategories": []
     },
     {
         "key": "bohrständer",
         "name": "Bohrständer",
-        "slug": "bohrstander",
+        "slug": "bohrstaender",
         "productCategory": "Bohrständer",
         "subCategories": []
     },
@@ -457,21 +457,21 @@
     {
         "key": "schweißgeräte",
         "name": "Schweißgeräte",
-        "slug": "schweissgerate",
+        "slug": "schweissgeraete",
         "productCategory": "Schweißgeräte",
         "subCategories": []
     },
     {
         "key": "zubehör für miniaturwerkzeuge",
         "name": "Zubehör für Miniaturwerkzeuge",
-        "slug": "zubehor-fur-miniaturwerkzeuge",
+        "slug": "zubehoer-fuer-miniaturwerkzeuge",
         "productCategory": "Zubehör für Miniaturwerkzeuge",
         "subCategories": []
     },
     {
         "key": "zubehör für schweißgeräte",
         "name": "Zubehör für Schweißgeräte",
-        "slug": "zubehor-fur-schweissgerate",
+        "slug": "zubehoer-fuer-schweissgeraete",
         "productCategory": "Zubehör für Schweißgeräte",
         "subCategories": []
     }
